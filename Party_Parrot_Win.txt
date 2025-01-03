@@ -1,6 +1,6 @@
 REM Title: Party Parrot for Windows
-REM Author: Jeffrey Koopman | JKCTech
-REM Description: Shows a pretty party parrot!
+REM Author: Jeffrey Koopman | JKCTech & bebji
+REM Description: Shows a lot of rainbow parrots (if u have no idea what i mean, try it out, its harmless to your computer)
 REM Target:	Windows
 REM
 DEFAULTDELAY 50
